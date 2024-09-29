@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Nodejs and Express**
 
-- 💬 Ask me about **react, java, sql**
+- 💬 Ask me about **python, java, sql**
 
 - 📫 How to reach me **sparshchaudhary56935@gmail.com**
 
