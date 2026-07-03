@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sparsh Chaudhary</h1>
 <h3 align="center">Software Developer looking for collaboration and a good open source issue.</h3>
 
-- 🌱 I’m currently learning **Nodejs and Express**
+- 🌱 I’m currently learning **java and Python**
 
 - 💬 Ask me about **python, java, sql**
 
