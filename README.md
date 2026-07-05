@@ -1,15 +1,107 @@
 <h1 align="center">Hi 👋, I'm Sparsh Chaudhary</h1>
-<h3 align="center">Software Developer looking for collaboration and a good open source issue.</h3>
+<h3 align="center">Backend Software Engineer | Building Scalable Systems & High-Performance APIs 🚀</h3>
 
-- 🌱 I’m currently learning **java and Python**
-
-- 💬 Ask me about **python, java, sql**
-
-- 📫 How to reach me **sparshchaudhary56935@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Backend+Software+Engineer;Python+%7C+Java+%7C+Spring+Boot;REST+APIs+%7C+Microservices+%7C+PostgreSQL;Always+Learning+Something+New+%F0%9F%9A%80" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
+
+### 👨‍💻 About Me
+
+- 💼 Backend Software Engineer with **3+ years** of experience building production-grade applications
+- 🔭 Currently working on **scalable backend systems, REST APIs & Microservices**
+- 🌱 Currently learning **System Design, Distributed Systems & Advanced Java**
+- 👨‍💻 Solved **500+ DSA problems** and continuously improving problem-solving skills
+- ⚡ Passionate about **Backend Development, Performance Optimization & Clean Architecture**
+- 💬 Ask me about **Python, Java, Spring Boot, Flask, REST APIs, SQL, PostgreSQL & System Design**
+- 📫 Reach me at **sparshchaudhary56935@gmail.com**
+- 📄 Portfolio coming soon...
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/chaudharysparsh/" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="45" />
+</a>
+
+<a href="https://github.com/SparshChaudhary09" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="45" />
+</a>
+
+<a href="mailto:sparshchaudhary56935@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="45" />
+</a>
+</p>
+
+---
+
+### 🚀 Tech Stack
+
+#### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,sql,html,css,c" />
+</p>
+
+#### ⚙️ Backend & Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,flask,fastapi,nodejs" />
+</p>
+
+#### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
+
+#### ☁️ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=gcp,git,github,linux,docker" />
+</p>
+
+#### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=postman,vscode,idea" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SparshChaudhary09&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SparshChaudhary09&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SparshChaudhary09&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=SparshChaudhary09&theme=algolia&margin-w=15&margin-h=15&no-frame=true"/>
+</p>
+
+---
+
+### 📈 Profile Views
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=SparshChaudhary09&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+
+### 💡 Quote I Live By
+
+> *"Great software isn't just about writing code—it's about solving problems at scale."* 🚀
