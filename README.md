@@ -20,7 +20,7 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/sparshchaudhary/" target="_blank">
+<a href="https://www.linkedin.com/in/chaudharysparsh/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
 
